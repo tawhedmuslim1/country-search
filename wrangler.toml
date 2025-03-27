@@ -1,0 +1,6 @@
+name = "fastsearch"
+compatibility_date = "2025-03-27"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AbKTAAIjcDExZmMwNmZjM2Y1ZWY0MDhmYTM2MWNjNmRhYzE4YzEwZXAxMA"
+UPSTASH_REDIS_REST_URL = "https://funny-moose-45715.upstash.io"
